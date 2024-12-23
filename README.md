@@ -4,3 +4,5 @@
 </div>
 
 [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/kkamal11/Capstone-Project-Business-data-management/blob/main/BUSINESS_DATA_MANAGEMENT_CAPSTONE_PROJECT.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kkamal11/Capstone-Project-Business-data-management/blob/main/BUSINESS_DATA_MANAGEMENT_CAPSTONE_PROJECT.ipynb)
+
