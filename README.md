@@ -21,5 +21,22 @@
 <h2>Dataset Schema</h2>
 <img src="/img/drawSQL.png" alt="Schema" width="700" height="500">
 
+## Tools Used
+- Python
+- Numpy
+- Pandas
+- Matplotlib, Seaborn, Plotly
+- scikit-learn, mlxtend
+- MS Excel
+
+## Detailed explanation of analysis process/ method
+Refer to the project report - [click here to view](https://github.com/kkamal11/Capstone-Project-Business-data-management/blob/main/PROJECT_REPORT.pdf)
+
+## Results and findings
+Refer to the project report - [click here to view](https://github.com/kkamal11/Capstone-Project-Business-data-management/blob/main/PROJECT_REPORT.pdf)
+
+## Recommendation
+!['img'](/img/reco.png)
+Refer to the project report to view in detail - [click here to view](https://github.com/kkamal11/Capstone-Project-Business-data-management/blob/main/PROJECT_REPORT.pdf)
 
 
