@@ -15,6 +15,11 @@
     <button>View Presentation</button>
 </a>
   </div>
+  <h2></h2>
 </div>
+
+<h2>Dataset Schema</h2>
+<img src="/img/drawSQL.png" alt="Schema" width="700" height="500">
+
 
 
