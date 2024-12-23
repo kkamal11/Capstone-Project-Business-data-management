@@ -7,8 +7,8 @@
     <a href="https://nbviewer.org/github/kkamal11/Capstone-Project-Business-data-management/blob/main/BUSINESS_DATA_MANAGEMENT_CAPSTONE_PROJECT.ipynb" target="_blank">
         <img src="https://img.shields.io/badge/View%20in-nbviewer-orange?logo=jupyter" alt="View in nbviewer">
     </a>
-    <a href="https://colab.research.google.com/github/kkamal11/Capstone-Project-Business-data-management/blob/main/BUSINESS_DATA_MANAGEMENT_CAPSTONE_PROJECT.ipynb" target="_blank">
-        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
+    <a href="https://github.com/kkamal11/Capstone-Project-Business-data-management/blob/main/BDM_CAPSTONE_PROJECT.ipynb" target="_blank">
+        <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Colab">
     </a>
 </div>
 
