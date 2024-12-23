@@ -12,7 +12,7 @@
     </a>
   <div>
       <a href="https://tan-sammy-52.tiiny.site" target="_blank">
-    <button>View PowerPoint</button>
+    <button>View Presentation</button>
 </a>
   </div>
 </div>
