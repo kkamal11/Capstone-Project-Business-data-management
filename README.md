@@ -40,6 +40,7 @@ Refer to the project report - [click here to view](https://github.com/kkamal11/C
 Refer to the project report to view in detail - [click here to view](https://github.com/kkamal11/Capstone-Project-Business-data-management/blob/main/PROJECT_REPORT.pdf)
 
 <div align='center'>
+  <h2></h2>
   <p>*** End of the file ***</p>
 </div>
 
