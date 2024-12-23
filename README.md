@@ -10,6 +10,11 @@
     <a href="https://github.com/kkamal11/Capstone-Project-Business-data-management/blob/main/BDM_CAPSTONE_PROJECT.ipynb" target="_blank">
         <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Colab">
     </a>
+  <div>
+      <a href="https://tan-sammy-52.tiiny.site" target="_blank">
+    <button>View PowerPoint</button>
+</a>
+  </div>
 </div>
 
 
